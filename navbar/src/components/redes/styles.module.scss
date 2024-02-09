@@ -8,3 +8,15 @@
 .texto{
     padding: 0 200px;
 }
+
+@media screen and (max-width: 600px) {
+    .texto {
+        padding: 0 5%; /* Ajustado para 5% em telas menores */
+    }
+}
+
+@media screen and (min-width: 601px) {
+    .texto {
+        padding: 0 10%; /* Alterado para 10% para telas maiores que 600px */
+    }
+}
