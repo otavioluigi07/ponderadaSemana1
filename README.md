@@ -20,3 +20,6 @@ Seção '''O que são as redes?''':
   
 Desenvolvimento da responsividade do Site:
 - Criação de toda a parte responsiva do site. Todos os componentes estão responsivos e adaptaveis para qualquer tamanho tela.
+
+Conflito resolvido - Troca da cor dos Hovers:
+- A branch feat/cordobotao entrou em conflito com o commit que foi feito direto na main do projeto. As cores foram ajustadas e o conflito foi resolvido.
