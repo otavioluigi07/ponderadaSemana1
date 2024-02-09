@@ -62,3 +62,12 @@
     transition: 200ms;
 }
 
+@media screen and (max-width: 600px) {
+    .content {
+        width: 90%; /* Ajustado para 90% em telas menores */
+    }
+
+    .btn {
+        width: 80%; /* Ajustado para 80% em telas menores */
+    }
+}
